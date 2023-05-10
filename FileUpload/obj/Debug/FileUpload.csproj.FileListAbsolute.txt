@@ -1,0 +1,23 @@
+C:\Users\ziad_mohamed\Desktop\FileUpload\FileUpload\bin\Debug\FileUpload.exe.config
+C:\Users\ziad_mohamed\Desktop\FileUpload\FileUpload\bin\Debug\FileUpload.exe
+C:\Users\ziad_mohamed\Desktop\FileUpload\FileUpload\bin\Debug\FileUpload.pdb
+C:\Users\ziad_mohamed\Desktop\FileUpload\FileUpload\obj\Debug\FileUpload.csprojResolveAssemblyReference.cache
+C:\Users\ziad_mohamed\Desktop\FileUpload\FileUpload\obj\Debug\FileUpload.exe
+C:\Users\ziad_mohamed\Desktop\FileUpload\FileUpload\obj\Debug\FileUpload.pdb
+C:\Users\rt_svrmgr\Desktop\FileUpload\FileUpload\bin\Debug\FileUpload.exe.config
+C:\Users\rt_svrmgr\Desktop\FileUpload\FileUpload\obj\Debug\FileUpload.exe
+C:\Users\rt_svrmgr\Desktop\FileUpload\FileUpload\obj\Debug\FileUpload.pdb
+C:\Users\rt_svrmgr\Desktop\FileUpload\FileUpload\bin\Debug\FileUpload.exe
+C:\Users\rt_svrmgr\Desktop\FileUpload\FileUpload\bin\Debug\FileUpload.pdb
+C:\Users\rt_svrmgr\Desktop\FileUpload\FileUpload\obj\Debug\FileUpload.csprojResolveAssemblyReference.cache
+F:\Projects\FileUpload\FileUpload\bin\Debug\FileUpload.exe.config
+F:\Projects\FileUpload\FileUpload\obj\Debug\FileUpload.exe
+F:\Projects\FileUpload\FileUpload\obj\Debug\FileUpload.pdb
+D:\Projects\FileUpload CMD\FileUpload\bin\Debug\FileUpload.exe.config
+D:\Projects\FileUpload CMD\FileUpload\bin\Debug\FileUpload.exe
+D:\Projects\FileUpload CMD\FileUpload\bin\Debug\FileUpload.pdb
+D:\Projects\FileUpload CMD\FileUpload\obj\Debug\FileUpload.csproj.AssemblyReference.cache
+D:\Projects\FileUpload CMD\FileUpload\obj\Debug\FileUpload.csproj.SuggestedBindingRedirects.cache
+D:\Projects\FileUpload CMD\FileUpload\obj\Debug\FileUpload.csproj.CoreCompileInputs.cache
+D:\Projects\FileUpload CMD\FileUpload\obj\Debug\FileUpload.exe
+D:\Projects\FileUpload CMD\FileUpload\obj\Debug\FileUpload.pdb
